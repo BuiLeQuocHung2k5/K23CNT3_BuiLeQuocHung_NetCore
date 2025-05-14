@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLesson1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67311284-A63C-4E2B-B9A3-1C5499027B06}|BlqhLesson1\\BlqhLesson1.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlesson1\\blqhlesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67311284-A63C-4E2B-B9A3-1C5499027B06}|BlqhLesson1\\BlqhLesson1.csproj|solutionrelative:blqhlesson1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLesson1\\BlqhLesson1\\Program.cs",
+              "RelativeDocumentMoniker": "BlqhLesson1\\Program.cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLesson1\\BlqhLesson1\\Program.cs",
+              "RelativeToolTip": "BlqhLesson1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T02:01:03.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

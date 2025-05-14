@@ -1,0 +1,38 @@
+﻿@model IEnumerable<BlqhLesson04.Models.BlqhBook>
+@{
+    ViewData["Title"] = "Thông tin các cuốn sách";
+}
+<h2>@ViewData["Title"]</h2>
+
+<p><a class="btn btn-success" href="/BlqhBook/BlqhCreate">Thêm mới</a></p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>BookId</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Image</th>
+            <th>Price</th>
+            <th>Page</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.BlqhId</td>
+                <td>@book.BlqhTitle</td>
+                <td>@book.BlqhDescription</td>
+                <td><img src="@book.BlqhImage" width="80" /></td>
+                <td>@book.BlqhPrice</td>
+                <td>@book.BlqhPage</td>
+                <td>
+                    <a class="btn btn-warning btn-sm" href="/BlqhBook/BlqhEdit?id=@book.BlqhId">Sửa</a>
+                    <a class="btn btn-danger btn-sm" href="/BlqhBook/BlqhDelete?id=@book.BlqhId" onclick="return confirm('Xác nhận xóa?');">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

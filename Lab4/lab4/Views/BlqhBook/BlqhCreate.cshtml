@@ -1,0 +1,36 @@
+﻿@model BlqhLesson04.Models.BlqhBook
+
+@{
+    ViewData["Title"] = "Thêm sách bút ký";
+}
+
+<h2>Thêm sách bút ký</h2>
+
+<form asp-action="BlqhCreateSubmit" method="post">
+    <div>
+        <label>Mã sách</label>
+        <input asp-for="BlqhId" class="form-control" />
+    </div>
+    <div>
+        <label>Tiêu đề</label>
+        <input asp-for="BlqhTitle" class="form-control" />
+    </div>
+    <div>
+        <label>Mô tả</label>
+        <textarea asp-for="BlqhDescription" class="form-control"></textarea>
+    </div>
+    <div>
+        <label>Ảnh (đường dẫn)</label>
+        <input asp-for="BlqhImage" class="form-control" />
+    </div>
+    <div>
+        <label>Giá</label>
+        <input asp-for="BlqhPrice" class="form-control" />
+    </div>
+    <div>
+        <label>Số trang</label>
+        <input asp-for="BlqhPage" class="form-control" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Thêm</button>
+</form>
