@@ -1,0 +1,35 @@
+﻿@model BlqhLab06.Models.BlqhEmployee
+
+@{
+    ViewData["Title"] = "Thêm nhân viên mới";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="BlqhCreateSubmit" method="post">
+    <div class="mb-3">
+        <label asp-for="BlqhName" class="form-label">Họ tên</label>
+        <input asp-for="BlqhName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlqhBirthDay" class="form-label">Ngày sinh</label>
+        <input asp-for="BlqhBirthDay" type="date" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlqhEmail" class="form-label">Email</label>
+        <input asp-for="BlqhEmail" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlqhPhone" class="form-label">SĐT</label>
+        <input asp-for="BlqhPhone" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label asp-for="BlqhSalary" class="form-label">Lương</label>
+        <input asp-for="BlqhSalary" class="form-control" />
+    </div>
+    <div class="form-check mb-3">
+        <input asp-for="BlqhStatus" class="form-check-input" />
+        <label asp-for="BlqhStatus" class="form-check-label">Đang làm việc</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm mới</button>
+</form>

@@ -1,0 +1,48 @@
+﻿@model List<BlqhLab06.Models.BlqhEmployee>
+
+@{
+    ViewData["Title"] = "Danh sách nhân viên";
+}
+
+
+<divc class="d-flex d-flex justify-content-between align-items-center">
+        <h2 class="text-center">Danh sách nhân viên</h2>
+    <a href="/BlqhEmployee/Blqhcreate" class="btn btn-primary"> Thêm mới</a>
+    </divc>
+
+<table class="table table-bordered table-hover table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Email</th>
+            <th>SĐT</th>
+            <th>Lương</th>
+            <th>Trạng thái</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var blqhEmp in Model)
+        {
+            <tr>
+                <td>@blqhEmp.BlqhId</td>
+                <td>@blqhEmp.BlqhName</td>
+                <td>@blqhEmp.BlqhBirthDay.ToString("dd/MM/yyyy")</td>
+                <td>@blqhEmp.BlqhEmail</td>
+                <td>@blqhEmp.BlqhPhone</td>
+                <td>@blqhEmp.BlqhSalary.ToString("N0") ₫</td>
+                <td>
+                    @if (blqhEmp.BlqhStatus)
+                    {
+                        <span class="badge bg-success">Đang làm</span>
+                    }
+                    else
+                    {
+                        <span class="badge bg-danger">Nghỉ việc</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

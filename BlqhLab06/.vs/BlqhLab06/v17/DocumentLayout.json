@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\views\\blqhemployee\\blqhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\views\\blqhemployee\\blqhcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\controllers\\blqhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\controllers\\blqhemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\views\\blqhemployee\\blqhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\views\\blqhemployee\\blqhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\views\\shared\\blqhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\views\\shared\\blqhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\views\\shared\\_blqhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\views\\shared\\_blqhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|c:\\netcore\\k23cnt3_builequochung_netcore\\blqhlab06\\blqhlab06\\views\\blqhhome\\blqhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECBCADE-05CB-4803-952D-FE3836352C5C}|BlqhLab06\\BlqhLab06.csproj|solutionrelative:blqhlab06\\views\\blqhhome\\blqhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlqhCreate.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhEmployee\\BlqhCreate.cshtml",
+              "RelativeDocumentMoniker": "BlqhLab06\\Views\\BlqhEmployee\\BlqhCreate.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhEmployee\\BlqhCreate.cshtml",
+              "RelativeToolTip": "BlqhLab06\\Views\\BlqhEmployee\\BlqhCreate.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAArwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:37:48.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_BlqhLayout.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\Shared\\_BlqhLayout.cshtml",
+              "RelativeDocumentMoniker": "BlqhLab06\\Views\\Shared\\_BlqhLayout.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\Shared\\_BlqhLayout.cshtml",
+              "RelativeToolTip": "BlqhLab06\\Views\\Shared\\_BlqhLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:19:27.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlqhAbout.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhHome\\BlqhAbout.cshtml",
+              "RelativeDocumentMoniker": "BlqhLab06\\Views\\BlqhHome\\BlqhAbout.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhHome\\BlqhAbout.cshtml",
+              "RelativeToolTip": "BlqhLab06\\Views\\BlqhHome\\BlqhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:15:33.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlqhNavBar.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\Shared\\BlqhNavBar.cshtml",
+              "RelativeDocumentMoniker": "BlqhLab06\\Views\\Shared\\BlqhNavBar.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\Shared\\BlqhNavBar.cshtml",
+              "RelativeToolTip": "BlqhLab06\\Views\\Shared\\BlqhNavBar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:10:32.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlqhIndex.cshtml",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhEmployee\\BlqhIndex.cshtml",
+              "RelativeDocumentMoniker": "BlqhLab06\\Views\\BlqhEmployee\\BlqhIndex.cshtml",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Views\\BlqhEmployee\\BlqhIndex.cshtml",
+              "RelativeToolTip": "BlqhLab06\\Views\\BlqhEmployee\\BlqhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T03:06:12.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlqhEmployeeController.cs",
+              "DocumentMoniker": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Controllers\\BlqhEmployeeController.cs",
+              "RelativeDocumentMoniker": "BlqhLab06\\Controllers\\BlqhEmployeeController.cs",
+              "ToolTip": "C:\\NetCore\\K23CNT3_BuiLeQuocHung_NetCore\\BlqhLab06\\BlqhLab06\\Controllers\\BlqhEmployeeController.cs",
+              "RelativeToolTip": "BlqhLab06\\Controllers\\BlqhEmployeeController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:43:19.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
